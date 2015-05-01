@@ -2,7 +2,7 @@
   "name": "Courageous Trapeze",
   "version": "0.0.1",
   "authors": [],
-  "license": "MIT",
+  "license": "BSD 3-Clause",
   "ignore": [
     "**/.*",
     "node_modules",
