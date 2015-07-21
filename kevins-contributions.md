@@ -1,0 +1,7 @@
+- Implemented the architecture and modularization for the entire frontend (everything under client/)
+- Implemented main entry point for Angular app (client/app/app.js)
+- Implemented all factories in client/app/factories
+- Implemented end-to-end authentication (client/app/auth/auth.js, server/config/authUtil.js)
+- Implemented ContactsController and contact views (client/app/contacts/)
+- Implemented MessagesController and message views (client/app/messages/)
+- Implemented CORS (server/config/cors.js)
